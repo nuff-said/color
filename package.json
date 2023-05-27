@@ -1,0 +1,24 @@
+{
+  "name": "@nuff-said/color",
+  "version": "1.0.0",
+  "description": "A concise color library for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuff-said/color.git"
+  },
+  "keywords": [
+    "color",
+    "nuff",
+    "cli"
+  ],
+  "author": "Siddharth Shyniben <siddharth.muscat@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nuff-said/color/issues"
+  },
+  "homepage": "https://github.com/nuff-said/color#readme"
+}
