@@ -1,8 +1,8 @@
 # [@nuff-said/color][repo-npm]
 
 A compact and efficient terminal styling library that offers an impressive array
-of **40 different styles**, all packed into a minzipped code size of just **227
-bytes!** 10x smaller than the most popular alternative, chalk
+of **40 different styles**, all packed into a _raw code size_ of just **249
+bytes!** 10x smaller than the _minzipped size_ of most popular alternative, chalk
 
 ```javascript
 const color = require('@nuff-said/color');
